@@ -1,0 +1,11 @@
+{
+  "name": "denosaur",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PaperDevil/denosaur.git",
+  "author": "ketov-x <ketov-x@yandex.ru>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "deno run --watch main.ts"
+  }
+}
